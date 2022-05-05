@@ -1,2 +1,2 @@
-# modenSwitches
-Moder Customizable Swtiches
+# modernSwitches
+Modern Customizable Swtiches
