@@ -1,7 +1,1 @@
-.mcs.switchBox{display: flex; align-items: center;}
-.mcs.switchBox #switchBox-1{display: none;}
-.mcs.switchBox .switchContainer{width: 50px;height: 25px;border: 3px solid white; border-radius: 25px;box-shadow: 0 0 2px 0px #0000006b;background-color: darkred;transition: .5s;cursor: pointer; padding: 2px; position:relative;}
-.mcs.switchBox .switchBox-label{margin-right: 15px;font-family: cursive;font-size: 20px;}
-.mcs.switchBox-orange .switchContainer.active{background-color: orange;}
-.mcs.switchBox .switchIndicator{width: 50%;height: 100%;background-color: white;border-radius: 50%;box-shadow: 0 0 6px black;transition: .5s;}
-.mcs.switchBox .active .switchIndicator{margin: 0 0 0 50% !important;}
+.mcs.switchBox{display: flex; align-items: center;}.mcs.switchBox #switchBox-1{display: none;}.mcs.switchBox .switchContainer{width: 50px;height: 25px;border: 3px solid white; border-radius: 25px;box-shadow: 0 0 2px 0px #0000006b;background-color: darkred;transition: .5s;cursor: pointer; padding: 2px; position:relative;}.mcs.switchBox .switchBox-label{margin-right: 15px;font-family: cursive;font-size: 20px;}.mcs.switchBox-orange .switchContainer.active{background-color: orange;}.mcs.switchBox .switchIndicator{width: 50%;height: 100%;background-color: white;border-radius: 50%;box-shadow: 0 0 6px black;transition: .5s;}.mcs.switchBox .active .switchIndicator{margin: 0 0 0 50% !important;}
